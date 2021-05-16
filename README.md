@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="DevQuiz" title="DevQuiz" src="https://github.com/ruandeveloper/devquiz-flutter/blob/master/assets/images/logo.png" />
+  DevQuiz
 </h1>
 
 <br>
